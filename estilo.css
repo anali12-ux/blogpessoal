@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Bodoni MT";
+    background-color: #c2c2c2;
+    text-align: center;
+}
+.postagens img {
+    width: 600px;
+}
+.header {
+    width: 100%;
+}
+.informacao{
+    display: flex;
+    text-align: justify;
+}
+h2 {
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+}
+.fotoeu{
+    width: 200px;
+}
+.postagem1,
+.postagem2,
+.postagem3,
+.postagem4{
+    background-color: #7e7e7e;
+    border-radius: 10px;
+    padding: 10px;
+}
+.informacao{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
